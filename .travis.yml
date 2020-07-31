@@ -26,6 +26,5 @@ deploy:
   # the secure key indicates an encrypted value; see README
   api_key:
     secure: HavRqNA57qdo3libgMub/YDw+S24W9SU4qth/Da78wXl27/XzRuAOh/Cg/Nm+IGjcsNCS2AnPtanJeY2z1miaV5/5Y7eW+pj4D1VaMrHbzVjpws09gnTef6qxGKhU7UzY6Ow9z5lb8+C1eC/x1E0PSFpuIAYrIA54MuqOzRJ2T1h92S1iwfQYfzhGVlYMc/blFykBnuWNjAvu7tFOd3K0ikBIzzM5P6IcYNQm1iSWq1YSZzqi9YWKosktNyyC+ik3WOmbLsdCM2avZkJsGp9/K39ad+gWmsmQpqbsfK3VNPZFsLkrEiZziJSVw5olgsGPOGmovE333vSobiGaF4Wuc90Yw7Am4Md570/vC4dSQpDuQ2wdMrue+RfctoP5wQYzt5YdgHTJTcog04zIGHBtsAHchOnnBbd6yz55/SkbqrsbAo40QZ7lclOqGq9XFp/hKI0jvesXOOjMU29DmFWcmSKx4oWBg+OfOWb1zxzFenh3l5oBqggrgWNXKMwaB3paUlYgYyQ2DWEBM8cglztUJIsveaUBVfM+ZXN5r9SEPM1td7APCIzwdBPeaLnvlkNYznvzExY2DZgt1IDesH1AS2rr5yC4pVCm0o/a9r/KH2Ax4pGQdu59jAdZgJpP2m9sd2uJKEJH0uX5c0bHqn14AtbwN0+uynItc3pZIvs1OY=
-
 #   api_key:
 #     secure: YOUR-***ENCRYPTED***-API-KEY-HERE
